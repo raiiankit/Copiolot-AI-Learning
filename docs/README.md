@@ -33,8 +33,7 @@ A simple and interactive Python-based calculator that supports basic arithmetic 
 
 ## Testing Command
 
-python3 -m unittest discover -s tests
-python3 main.py        
+python3 -m unittest discover -s tests       
 
 ## Setup Instructions
 
@@ -43,8 +42,8 @@ Follow these steps to set up and run the calculator:
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repo_url>
-   cd calculator
+   git clone <https://github.com/raiiankit/Copiolot-AI-Learning.git>
+   run python3 main.py        
    ```
 
 2. **Install Dependencies**:
