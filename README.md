@@ -44,7 +44,7 @@ Follow these steps to set up and run the calculator:
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repo_url>
+    git clone <https://github.com/raiiankit/Copiolot-AI-Learning.git>
    cd calculator
    ```
 
